@@ -38,7 +38,7 @@ GNU General Public License v3.0 (или новее)
 ### Вариант 1 — Один клик (рекомендуется)
 
 1. Установи Java 21+ → [Скачать с adoptium.net](https://adoptium.net/)
-2. Двойной клик по `FistingStrike.jar`Скачай последнюю версию → [последнюю версию JAR](https://github.com/твой_ник/FistingStrike/releases/latest)
+2. Двойной клик по `FistingStrike.jar`Скачай последнюю версию → [последнюю версию JAR](https://github.com/feeloner/FistingStrike/releases/latest)
 3. Двойной клик по `FistingStrike.jar`
 4. Наслаждайся хуетой.
 
