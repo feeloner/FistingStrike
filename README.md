@@ -48,7 +48,7 @@ GNU General Public License v3.0 (или новее)
 # Установи Java 21+
 
 # Клонируй репозиторий
-git clone https://github.com/т/FistingStrike.git
+git clone https://github.com/feeloner/FistingStrike.git
 cd FistingStrike
 
 # Компилируй
